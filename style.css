@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(239, 237, 237);
+}
+#titulo-principal {
+    color: aqua;
+}
+#titulo-principal {
+    color: brown;
+}
+.primeira-classe {
+    color: purple;
+}
+.primeira-classe {
+    color: blue;
+}
+h1 {
+    color: red !important;
+}
+h1 {
+    color: green;
+}
+#cor-nomes {
+    color: red;
+}
+#cor-hex {
+    color: #8B0000;
+}
+p {
+    color: rebeccapurple;
+}
+#text {
+    color: #ff0000;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-indent: 50px;
+}
+#arial{
+    font-family: Arial;
+}
+#serif{
+    font-family: sans-serif;
+}
+ul{
+    background: powderblue;
+    padding: 10px;
+}
