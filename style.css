@@ -14,22 +14,22 @@ body {
     color: blue;
 }
 h1 {
-    color: red !important;
+    color: rgb(40, 39, 39) !important;
 }
 h1 {
     color: green;
 }
 #cor-nomes {
-    color: red;
+    color: grey;
 }
 #cor-hex {
     color: #8B0000;
 }
 p {
-    color: rebeccapurple;
+    color: rgb(51, 99, 153);
 }
 #text {
-    color: #ff0000;
+    color: #444242;
     text-align: left;
     text-decoration: underline;
     text-transform: uppercase;
@@ -42,6 +42,6 @@ p {
     font-family: sans-serif;
 }
 ul{
-    background: powderblue;
+    background: rgb(164, 162, 162);
     padding: 10px;
 }
